@@ -7,10 +7,12 @@ Sistema de chamados de TI.
 ## Equipe
 
 | Integrante | Papel |
-|---|---|
-| Nome do Aluno 1 | Product Owner / CIO |
-| Nome do Aluno 2 | Dev Lead |
-| Nome do Aluno 3 | QA / Auditoria |
+|---|---     |
+| João       | Product Owner / CIO |
+| Emanuel    | Dev Lead |
+| Felipe     | Dev Lead |
+| Alan       | QA / Auditoria |
+| Raquel     | QA / Auditoria |
 
 ## Como rodar
 
