@@ -35,4 +35,5 @@ Sistema de chamados de TI.
 
 ## Board do projeto
 
-Link do board Kanban (GitHub Projects): _adicionar aqui_
+Link do board Kanban:
+[Kanban - Trello](https://trello.com/invite/b/6a90c4f9fcf3f0774c346a7f/ATTIee36ac65e7b6aa7f45190955f0a3510cF88C817D/kanban-do-govdesk-sala-2-🧩)
